@@ -2,3 +2,4 @@ chilly chicken
 mutton
 eggs
 oil
+garlic 
